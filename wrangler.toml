@@ -1,0 +1,6 @@
+name = "api"
+main = "src/index.js"
+compatibility_date = "2026-11-09"
+routes = [
+  { pattern = "api.letmeow.tech/*", zone_name = "letmeow.tech" }
+]
